@@ -9,7 +9,9 @@ Aplique as regras de negócio estabelecidas em transformações nos dados ingeri
 Una bases diferentes para que tenham correlações que possam ser extraídas
 Persista os resultados das transformações para processos que utilizarão os dados tratados
 
-Links Uteis:
+# Links Uteis:
 https://beam.apache.org/documentation/programming-guide/#pardo
+
 https://beam.apache.org/documentation/programming-guide/#groupbykey
+
 https://beam.apache.org/documentation/patterns/pipeline-options/
